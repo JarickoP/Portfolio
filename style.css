@@ -1,12 +1,12 @@
 body {
-  background-color: #5f5345;
+  background-color: #ffae70;
 }
  
 .pageContainer {
   width: 940px;
   margin: 20px auto 0 auto;
   padding: 20px;
-  background-color: #fff;
+  background-color: #000000;
 }
  
 .imageContainer {
@@ -28,13 +28,13 @@ img {
 h1 {
   font-family: 'Times New Roman', cursive;
   font-size: 64px;
-  color: #8b1b00;
+  color: #1e4b6b;
 }
  
 p, li {
   font-family: 'Trebuchet MS', sans-serif;
   font-size: 22px;
-  color: #51473b;
+  color: #000000;
 }
 
 .pageContainer:after { 
