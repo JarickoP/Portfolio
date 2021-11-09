@@ -21,6 +21,10 @@ body {
   margin-top: 20px;
 }
 
+.centered {
+  text-align: center;
+}
+
 img {
   width: 100%;
 }
