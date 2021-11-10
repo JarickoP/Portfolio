@@ -2,7 +2,7 @@ body {
   background-color: #ffae70;
 }
 
-header {
+header, footer{
   background-color:#b00202;
   border: 25px;
   padding:10px;
