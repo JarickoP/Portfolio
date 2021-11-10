@@ -14,8 +14,9 @@ footer {
   padding:5px;
 }
  
-.centered {
-  text-align: center;
+article {
+  border:10px;
+  border-color:#000000;
 }
 
 img {
@@ -49,4 +50,6 @@ p, li, l {
   border:5px;
 }
 
- 
+.centered {
+  text-align: center;
+}
