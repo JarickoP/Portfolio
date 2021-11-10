@@ -2,24 +2,8 @@ body {
   background-color: #ffae70;
 }
  
-.pageContainer {
-  width: 940px;
-  margin: 20px auto 0 auto;
-  padding: 20px;
-  background-color: #000000;
-}
- 
-.imageContainer {
-  float: left;
-  width: 620px;
-}
- 
 .centered {
   text-align: center;
-}
-
-img {
-  width: 100%;
 }
  
 h1 {
