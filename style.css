@@ -5,6 +5,10 @@ body {
 .centered {
   text-align: center;
 }
+
+img {
+width: 50%
+}
  
 h1 {
   font-family: 'Times New Roman', cursive;
