@@ -22,17 +22,20 @@ border-color: #000000;
 }
  
 h1 {
+  text-align:center;
   font-family: 'Times New Roman', cursive;
   font-size: 64px;
   color: #1e4b6b;
 }
 
 h3 {
+  text-align:center;
   font-family: 'Georgia', cursive;
   font-size: 30px;
 }
 
 p, li, l {
+  text-align:center;
   font-family: 'Trebuchet MS', sans-serif;
   font-size: 22px;
   color: #000000;
