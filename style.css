@@ -14,14 +14,6 @@ body {
   width: 620px;
 }
  
-.textContainer {
-  text-align: center;
-  float: center;
-  width: 300px;
-  margin-left: 20px;
-  margin-top: 20px;
-}
-
 .centered {
   text-align: center;
 }
@@ -35,16 +27,16 @@ h1 {
   font-size: 64px;
   color: #1e4b6b;
 }
- 
-p, li {
+
+h3 {
+  font-family: 'Georgia', cursive;
+  font-size: 30px;
+}
+
+p, li, l {
   font-family: 'Trebuchet MS', sans-serif;
   font-size: 22px;
   color: #000000;
 }
 
-.pageContainer:after { 
-  content: " ";
-  display: table;
-  clear: both;
-}
  
