@@ -6,6 +6,7 @@ a:link, a:visited {
   display: inline-block;
   border-left: 75%;
   border-right: 75%;
+  background-color:"red";
 }
 
 a:visited{
