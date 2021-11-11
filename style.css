@@ -50,12 +50,21 @@ p, li, l {
   border:5px;
 }
 
-a:visited{
-  color:"purple"
+a:link, a:visited {
+  padding: 10px 15px;
+  text-align:center;
+  text-decoration: none;
+  display: block;
 }
 
-a:unvisited{
-  color:"green"
+a:visited{
+  background-color:"purple";
+  color:#000000;
+}
+
+a:link{
+  background-color:"green";
+  color:#000000;
 }
 
 .centered {
