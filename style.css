@@ -1,3 +1,27 @@
+a:link, a:visited {
+  height:30px;
+  padding: 10px 15px;
+  text-align:center;
+  text-decoration: none;
+  display: inline-block;
+  border-left: 75%;
+  border-right: 75%;
+}
+
+a:visited{
+  background-color:"purple";
+  color:#000000;
+}
+
+a:link{
+  background-color:"green";
+  color:#000000;
+}
+
+a:hover {
+  color:"blue";
+}
+
 body {
   background-color: #ffdcc4;
 }
@@ -47,30 +71,6 @@ p, li, l {
   color: #000000;
   padding:20px;
   border:5px;
-}
-
-a:link, a:visited {
-  height:30px;
-  padding: 10px 15px;
-  text-align:center;
-  text-decoration: none;
-  display: block;
-  border-left: 75%;
-  border-right: 75%;
-}
-
-a:visited{
-  background-color:"purple";
-  color:#000000;
-}
-
-a:link{
-  background-color:"green";
-  color:#000000;
-}
-
-a:hover {
-  color:"blue";
 }
 
 .alignright {
