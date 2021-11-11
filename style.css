@@ -51,6 +51,7 @@ p, li, l {
 }
 
 a:link, a:visited {
+  height:30px;
   padding: 10px 15px;
   text-align:center;
   text-decoration: none;
