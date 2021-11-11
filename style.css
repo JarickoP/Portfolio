@@ -68,6 +68,11 @@ a:link{
   color:#000000;
 }
 
+a:hover {
+  color:"blue";
+}
+
+
 .centered {
   text-align: center;
 }
