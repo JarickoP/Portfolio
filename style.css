@@ -50,6 +50,14 @@ p, li, l {
   border:5px;
 }
 
+a:visited{
+  color:"purple"
+}
+
+a:unvisited{
+  color:"green"
+}
+
 .centered {
   text-align: center;
 }
