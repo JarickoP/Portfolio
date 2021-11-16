@@ -79,19 +79,18 @@ a:link, a:visited {
   display: inline-block;
   border-left: 75%;
   border-right: 75%;
-  background-color:"red";
+  background-color:red;
 }
 
 a:visited{
-  background-color:"purple";
+  background-color:purple;
   color:#000000;
 }
 
 a:link{
-  background-color:"green";
   color:#000000;
 }
 
 a:hover {
-  color:"blue";
+  color:blue;
 }
