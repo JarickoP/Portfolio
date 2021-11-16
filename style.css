@@ -1,27 +1,4 @@
-a:link, a:visited {
-  height:30px;
-  padding: 20px 200px 20px 200px;
-  text-align:center;
-  text-decoration: none;
-  display: inline-block;
-  border-left: 75%;
-  border-right: 75%;
-  background-color:"red";
-}
 
-a:visited{
-  background-color:"purple";
-  color:#000000;
-}
-
-a:link{
-  background-color:"green";
-  color:#000000;
-}
-
-a:hover {
-  color:"blue";
-}
 
 body {
   background-color: #ffdcc4;
@@ -95,4 +72,29 @@ hr {
 
 .spaced {
   padding: 0 25px 0 25px;
+}
+
+a:link, a:visited {
+  height:30px;
+  padding: 20px 200px 20px 200px;
+  text-align:center;
+  text-decoration: none;
+  display: inline-block;
+  border-left: 75%;
+  border-right: 75%;
+  background-color:"red";
+}
+
+a:visited{
+  background-color:"purple";
+  color:#000000;
+}
+
+a:link{
+  background-color:"green";
+  color:#000000;
+}
+
+a:hover {
+  color:"blue";
 }
