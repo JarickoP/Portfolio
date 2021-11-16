@@ -53,8 +53,7 @@ p, li, l {
 }
 
 hr {
-  padding:10px 0 10px 0;
-  border-bottom:none;
+  margin:10px 0 10px 0;
 }
 
 .alignright {
