@@ -75,7 +75,10 @@ p, li, l {
   border:5px;
 }
 
-
+hr {
+  padding:10px 0 10px 0;
+  border-bottom:none;
+}
 
 .alignright {
   text-align: right;
