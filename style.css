@@ -79,12 +79,10 @@ a:link, a:visited {
   display: flex;
   border-left: 75%;
   border-right: 75%;
-  background-color:red;
 }
 
 a:visited{
-  background-color:purple;
-  color:#000000;
+  color:purple;
 }
 
 a:link{
