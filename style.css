@@ -82,6 +82,7 @@ a:link, a:visited {
 }
 
 a:visited{
+  text-align:center;
   color:purple;
 }
 
