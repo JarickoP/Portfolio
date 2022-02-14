@@ -19,6 +19,8 @@ article {
   border-color:#000000;
 }
 
+/* have to barely offset image to right */
+
 img {
 display:block;
 width: 15% ;
@@ -62,6 +64,8 @@ hr {
 .centered {
   text-align: center;
 }
+
+
 
 .squareup {
   margin-left:50%;
