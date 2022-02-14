@@ -64,11 +64,12 @@ hr {
 /* allowing containers to have different spacing between top and bottom */
 
 .spaced {
-  padding: 250px 35% 20px 20%;
+  padding: 0px 20px 0px 150px;
 }
 
 /* constant styling for links whether visited or unvisited */
 a:link, a:visited {
+  align:center;
   height:30px;
   padding: 20px 200px 20px 200px;
   text-align:center;
