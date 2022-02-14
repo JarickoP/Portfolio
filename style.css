@@ -76,7 +76,7 @@ a:link, a:visited {
   height:30px;
   padding: 20px 200px 20px 200px;
   text-align:center;
-  display: inline-block;
+  display: flex;
   border-left: 75%;
   border-right: 75%;
   background-color:red;
