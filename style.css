@@ -65,17 +65,13 @@ hr {
   text-align: center;
 }
 
-
-
-.squareup {
-  margin-left:50%;
-  margin-right:25%;
-}
+/* allowing containers to have different spacing between top and bottom */
 
 .spaced {
   padding: 0 35% 0 20%;
 }
 
+/* constant styling for links whether visited or unvisited */
 a:link, a:visited {
   height:30px;
   padding: 20px 200px 20px 200px;
@@ -85,15 +81,18 @@ a:link, a:visited {
   border-right: 75%;
 }
 
+/* change text color after visiting link */
 a:visited{
   text-align:center;
   color:purple;
 }
 
+/* set link color before visiting */
 a:link{
   color:#000000;
 }
 
+/* change text color when the link is being hovered over */
 a:hover {
   color:blue;
 }
