@@ -57,10 +57,6 @@ hr {
   border:solid black 1px;
 }
 
-.alignright {
-  text-align: right;
-}
-
 .centered {
   text-align: center;
 }
@@ -68,7 +64,7 @@ hr {
 /* allowing containers to have different spacing between top and bottom */
 
 .spaced {
-  padding: 0 35% 0 20%;
+  padding: 250px 35% 20px 20%;
 }
 
 /* constant styling for links whether visited or unvisited */
