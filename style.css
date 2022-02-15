@@ -61,6 +61,12 @@ hr {
   text-align: center;
 }
 
+.linksCentered {
+  align:center;
+  justify-content: space-evenly;
+  display: flex;
+}
+
 /* allowing containers to have different spacing between left and right */
 
 .spaced {
